@@ -5,5 +5,21 @@ background-image: url(../css/imagenes/fondo\ de\ panatalla\ de\ recode.jpg);
 
 .titulo-princital{
     text-align: center;
+color: white;
+}
 
+.Sudtitulos{
+    color: white;
+    text-align: center;
+}
+
+.parrafos{
+    border: 5px solid blue;
+  background-color: black;
+  color: white;
+  padding: 40px;
+  margin: 40px;
+  width: 350px;
+  height: 100px;
+    color: white;
 }
