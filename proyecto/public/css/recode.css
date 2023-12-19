@@ -14,12 +14,13 @@ color: white;
 }
 
 .parrafos{
-    border: 5px solid blue;
+  border: 5px solid grey;
   background-color: black;
   color: white;
   padding: 40px;
   margin: 40px;
-  width: 350px;
-  height: 100px;
-    color: white;
+  width: 400px;
+  height: 150px;
+  color: white;
+  text-align: center;
 }
