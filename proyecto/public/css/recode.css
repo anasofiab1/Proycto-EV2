@@ -2,12 +2,23 @@
 background-image: url(../css/imagenes/fondo\ de\ panatalla\ de\ recode.jpg);
 }
 
-
 .titulo-princital{
-    text-align: center;
-color: white;
+text-align: center;
+color:white
 }
 
+.Caja1{
+    color: white;
+  border: 5px solid grey;
+  background-color: black;
+  color: white;
+  padding: 40px;
+  margin: 20px;
+  width: 350px;
+  height: 200px;
+  text-align: center;
+
+}
 .Sudtitulos{
     color: white;
     text-align: center;
@@ -21,6 +32,5 @@ color: white;
   margin: 40px;
   width: 400px;
   height: 150px;
-  color: white;
   text-align: center;
 }
