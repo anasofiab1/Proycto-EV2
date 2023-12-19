@@ -29,3 +29,48 @@ color:white
   text-align: center;
 
 }
+
+.Caja3{
+  color: white;
+  border: 5px solid grey;
+  background-color: black;
+  padding: 40px;
+  margin: 40px;
+  width: 350px;
+  height: 200px;
+  text-align: center;
+}
+
+.Caja4{
+  color: white;
+  border: 5px solid grey;
+  background-color: black;
+  padding: 40px;
+  margin: 40px;
+  width: 400px;
+  height: 200px;
+  text-align: center;
+}
+
+.Caja5{
+  color: white;
+  border: 5px solid grey;
+  background-color: black;
+  padding: 40px;
+  margin: 40px;
+  width: 400px;
+  height: 200px;
+  text-align: center;
+}
+
+
+.Caja6{
+  color: white;
+  border: 5px solid grey;
+  background-color: black;
+  padding: 40px;
+  margin: 40px;
+  width: 400px;
+  height: 200px;
+  text-align: center;
+}
