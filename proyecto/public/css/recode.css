@@ -8,29 +8,24 @@ color:white
 }
 
 .Caja1{
-    color: white;
+  color: white;
   border: 5px solid grey;
   background-color: black;
-  color: white;
   padding: 40px;
-  margin: 20px;
+  margin: 40px;
   width: 350px;
   height: 200px;
   text-align: center;
 
 }
-.Sudtitulos{
-    color: white;
-    text-align: center;
-}
-
-.parrafos{
+.Caja2{
+  color: white;
   border: 5px solid grey;
   background-color: black;
-  color: white;
   padding: 40px;
   margin: 40px;
-  width: 400px;
-  height: 150px;
+  width: 350px;
+  height: 200px;
   text-align: center;
+
 }
