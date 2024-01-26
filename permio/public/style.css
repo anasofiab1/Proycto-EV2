@@ -1,0 +1,40 @@
+.titulo-princital{
+    text-align: center;
+    color:black;
+    background-color: aquamarine;
+    height: 150px;
+    font-size: 40px;
+    justify-content: space-between;
+    
+    }
+
+.parrafo{
+    background-color: rgb(69, 163, 132);
+    color: white;
+    border: 5px solid rgb(82, 82, 82);
+    padding-bottom: 50px;
+    padding-left: 30px;
+    padding-right: 40px;
+    margin: 200px;
+    width: 850px;
+    height: 1000px;
+    text-align: center;
+    font-size: 19px;
+    padding-top: 0px;
+    
+}
+
+.parrafo2{
+    background-color: rgb(69, 163, 132);
+    color: white;
+    border: 5px solid rgb(82, 82, 82);
+    padding-bottom: 50px;
+    padding-left: 30px;
+    padding-right: 40px;
+    margin: 200px;
+    width: 850px;
+    height: 1000px;
+    text-align: center;
+    font-size: 19px;
+    padding-top: 0px;
+}
