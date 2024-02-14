@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+}
+
+*{
+    flex-direction: column-reverse  ;
+}
+
+.contenido {
+    background-image: url(../imagenes/imagen\ estrellas.jpg);
+    padding-top: 1000px;
+  }

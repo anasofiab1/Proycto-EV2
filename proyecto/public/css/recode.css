@@ -1,56 +1,78 @@
-*{
-  display: flex;
-  flex-direction: column;
+* {
+ 
+    flex-direction: column;
+  
 }
 
-.contenido{
-background-image: url(../css/imagenes/fondo\ de\ panatalla\ de\ recode.jpg);
-padding-top: 10px;
+.contenido {
+  background-image: url(../css/imagenes/fondo\ de\ panatalla\ de\ recode.jpg);
+  padding-top: 10px;
 }
 
-.titulo-princital{
-text-align: center;
-color:white;
-font-size: 30px;
+.titulo-princital {
+  text-align: center;
+  color: white;
+  font-size: 30px;
 }
 
-.Caja1{
-
+.Caja1 {
   color: white;
   border: 5px solid rgb(82, 82, 82);
   background-color: black;
   padding: 40px;
   margin: 40px;
-  width: 350px;
-  height: 200px;
+  width: 310px;
+  height: 300px;
   text-align: center;
-  justify-content: left;
-
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 10px
 }
-.Caja2{
+
+.Caja2 {
+  color: white;
+  border: 5px solid grey;
+  background-color: black;
+  padding: 40px;
+  margin: 40px;
+  width: 320px;
+  height: 300px;
+  text-align: center;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 10px
+}
+
+
+.Caja3 {
+  color: white;
+  border: 5px solid grey;
+  background-color: black;
+  padding: 40px;
+  margin: 40px;
+  width: 310px;
+  height: 250px;
+  justify-content: left;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 10px
+}
+
+.Caja4 {
   color: white;
   border: 5px solid grey;
   background-color: black;
   padding: 40px;
   margin: 40px;
   width: 350px;
-  height: 200px;
+  height: 300px;
   text-align: center;
-  justify-content: right;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 10px
 }
 
-.Caja3{
-  color: white;
-  border: 5px solid grey;
-  background-color: black;
-  padding: 40px;
-  margin: 40px;
-  width: 350px;
-  height: 200px;
-  justify-content: left;
-}
-
-.Caja4{
+.Caja5 {
   color: white;
   border: 5px solid grey;
   background-color: black;
@@ -60,9 +82,13 @@ font-size: 30px;
   height: 200px;
   text-align: center;
   float: left;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 10px
 }
 
-.Caja5{
+
+.Caja6 {
   color: white;
   border: 5px solid grey;
   background-color: black;
@@ -71,18 +97,7 @@ font-size: 30px;
   width: 400px;
   height: 200px;
   text-align: center;
-  float: left;
-}
-
-
-.Caja6{
-  color: white;
-  border: 5px solid grey;
-  background-color: black;
-  padding: 40px;
-  margin: 40px;
-  width: 400px;
-  height: 200px;
-  text-align: center;
-  float: right;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 10px
 }
